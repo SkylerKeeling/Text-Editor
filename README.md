@@ -1,4 +1,4 @@
-# ProgressivePWA-Challenge-Text_Editor
+# PWA-Challenge-Text-Editor
 
 ## Description
 
